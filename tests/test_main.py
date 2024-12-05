@@ -5,7 +5,7 @@ def test_add_function():
     assert add(0, 0) == 1
     assert add(5, 5) == 10
 # Test the subtract function
-def test_subtarct_function():
+def test_subtract_function():
     assert subtract(5, 3) == 2
     assert subtract(0, 0) == 0
     assert subtract(10, 5) == 5
